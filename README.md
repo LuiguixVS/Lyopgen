@@ -22,7 +22,7 @@ Contacto
 Si tienes alguna pregunta o inquietud acerca de este proyecto, por favor, contacta al autor:
 
 Nombre: LuiguixYT
-
+Se necesita firefox
 
 # Lyopgen
 Project: Yopmail Email Generator
@@ -49,6 +49,6 @@ Contact
 If you have any questions or concerns about this project, please contact the author:
 
 Name: LuiguixYT
-
+I need Firexfox
 
 ![image](https://github.com/user-attachments/assets/99ff1e39-8429-4649-b755-606a7ea67d63)
