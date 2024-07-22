@@ -42,12 +42,13 @@ Browser Automation: Antivirus programs may interpret using Selenium to automate 
 Web Access: The library accesses web pages and obtains information, which may be seen as an unusual activity by some security systems.
 How to verify project security
 
-![image](https://github.com/user-attachments/assets/99ff1e39-8429-4649-b755-606a7ea67d63)
-
 Open Source: The source code of this project is available and completely transparent. You can review the code for unwanted behavior.
-Well-known Libraries: The libraries used, such as Selenium and Discord.py, are widely known and used in the software development community.
+Well-known Libraries: The libraries used, such as Selenium are widely known and used in the software development community.
 Responsible Use: This project must be used ethically and legally. It should not be used for unauthorized or invasive activities.
 Contact
 If you have any questions or concerns about this project, please contact the author:
 
 Name: LuiguixYT
+
+
+![image](https://github.com/user-attachments/assets/99ff1e39-8429-4649-b755-606a7ea67d63)
